@@ -15,3 +15,6 @@ We study a global quadrature scheme for analytic functions on compact intervals 
 Numerical tests on equispaced nodes show that some static choices of the map's parameter improve the results of the composite trapezoidal rule, while a dynamic 
 approach achieves larger stability and faster convergence, even when the sampling nodes are perturbed.
 
+### Poster: On Kosloff Tal-Ezer least-squares quadrature formulas
+
+We presented this work as a [poster](poster/Poster_KTL.pdf) at "[5th Dolomites Workshop on Constructive Approximation and Applications](https://events.math.unipd.it/dwcaa21/)".
