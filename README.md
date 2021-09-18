@@ -20,7 +20,7 @@ KTI quadrature | KTL quadrature | Perturbed nodes
 
 **x-axis:** number of nodes - **y-axis:** Absolute Relative Error.
 
-To test the scheme, we use analytic functions in an open neighborhood of [−1, 1]: 
+To test the [scheme](img/pseudo_code_git.pdf), we use analytic functions in an open neighborhood of [−1, 1]: 
 
 <img src="https://render.githubusercontent.com/render/math?math=f_1(x) = \frac{1}{1  %2B 100x^2}"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (first row)
 
