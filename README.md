@@ -22,7 +22,7 @@ KTI quadrature | KTL quadrature | Perturbed nodes
 
 To test the [scheme](img/pseudo_code_git.pdf), we use analytic functions in an open neighborhood of [−1, 1]: 
 
-<img src="https://render.githubusercontent.com/render/math?math=f_1(x) = \frac{1}{1  %2B 100x^2}" style="background-color:red; padding:50px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (first row)
+<img src="https://render.githubusercontent.com/render/math?math=f_1(x) = \frac{1}{1  %2B 100x^2}" style="bgcolor:red; padding:50px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (first row)
 
 <img src="https://render.githubusercontent.com/render/math?math=f_2(x) = \frac{1}{1  %2B 16\sin^{2}(7x)}"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (second row)
 
