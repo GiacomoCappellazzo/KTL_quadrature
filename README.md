@@ -22,9 +22,9 @@ KTI quadrature | KTL quadrature | Perturbed nodes
 
 To test the [scheme](img/pseudo_code_git.pdf), we use analytic functions in an open neighborhood of [−1, 1]: 
 
-<img src="img/read_img/f_1.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (first row)
+<img src="img/read_img/f_1.PNG"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (first row)
 
-<img src="img/read_img/f_2.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (second row)
+<img src="img/read_img/f_2.PNG"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (second row)
 
 
 Numerical tests on equispaced nodes show that some static choices of the map's parameter improve the results of the composite trapezoidal rule, while a dynamic 
