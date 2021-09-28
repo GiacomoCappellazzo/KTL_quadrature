@@ -6,7 +6,7 @@ MATLAB code for KTL and KTI quadrature forlumas.
 
 To use this work in any scientific report or publication, please cite:
 
-* G. Cappellazzo, W. Erb, F. Marchetti, D. Poggiali, *On Kosloff Tal-Ezer least-squares quadrature formulas*.
+* G. Cappellazzo, W. Erb, F. Marchetti, D. Poggiali, [*On Kosloff Tal-Ezer least-squares quadrature formulas*](https://arxiv.org/pdf/2109.13138.pdf).
 
 ## Quadrature with Kosloff and Tal-Ezer map
 
